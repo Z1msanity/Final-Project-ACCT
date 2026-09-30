@@ -1,0 +1,2 @@
+class AccountingError(Exception):
+    pass
